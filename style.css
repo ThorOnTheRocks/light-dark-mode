@@ -204,7 +204,7 @@ p {
 
 .theme-switch-wrapper span {
   margin-right: 1rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .toggle-text {
@@ -212,6 +212,7 @@ p {
   top: -4px;
   right: 5px;
   color: var(--on-background);
+  
 }
 
 .theme-switch {
